@@ -641,8 +641,8 @@
       "loop": false
     },
     "gun_m24_Quackshot_fire": {
-      "start": 347,
-      "end": 349.1679818594104,
+      "start": 353,
+      "end": 354.60045351473923,
       "loop": false
     },
     "gun_m24_Retro_fire": {
@@ -651,8 +651,8 @@
       "loop": false
     },
     "gun_m24_Scavenger_fire": {
-      "start": 353,
-      "end": 354.60045351473923,
+     "start": 347,
+     "end": 349.1679818594104,
       "loop": false
     },
     "gun_m24_Techno_fire": {
